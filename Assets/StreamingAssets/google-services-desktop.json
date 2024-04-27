@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132545250384",
+    "project_id": "pp65-65a8a",
+    "storage_bucket": "pp65-65a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132545250384:android:ea664e5f4434d9a3a3fd55",
+        "android_client_info": {
+          "package_name": "com.pp65"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA254Guv0IgPOd3VJtcFtcRENrEFrWcXvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
