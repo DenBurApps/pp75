@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "132545250384",
-    "project_id": "pp65-65a8a",
-    "storage_bucket": "pp65-65a8a.appspot.com"
+    "project_number": "1071604575266",
+    "project_id": "frbspp75",
+    "storage_bucket": "frbspp75.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:132545250384:android:ea664e5f4434d9a3a3fd55",
+        "mobilesdk_app_id": "1:1071604575266:android:871fac1b149864149e2e7b",
         "android_client_info": {
-          "package_name": "com.pp65"
+          "package_name": "com.BLDms.ERpp75"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA254Guv0IgPOd3VJtcFtcRENrEFrWcXvI"
+          "current_key": "AIzaSyCbnx7xEHCGpG6u2DHLn7CJzAo3md7XKLc"
         }
       ],
       "services": {
